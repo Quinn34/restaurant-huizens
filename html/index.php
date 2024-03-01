@@ -26,36 +26,36 @@
 </header>
 <body>
 <div class="container1">
-            <div class="box1">
-                <img src="# class="imgF">
-            </div>
-            <div class="box1">
-                <img src="# class="imgF">
-            </div>
-        </div>
-        <div class="container1">
-            <div class="box1">
-                <img src="# class="imgF">
-            </div>
-            <div class="box1">
-                <img src="# class="imgF">
-            </div>
-        </div>
-        <div class="container1">
-            <div class="box1">
-                <img src="# class="imgF">
-            </div>
-            <div class="box1">
-                <img src="# class="imgF">
-            </div>
-        </div>
-        <div class="container1">
-            <div class="box1">
-                <img src="# class="imgF">
-            </div>
-            <div class="box1">
-                <img src="# class="imgF">
-            </div>
-        </div>
+    <div class="box1">
+        <img src="html/assets/1.jpeg" class="imgF">
+    </div>
+    <div class="box1">
+    <img src="html/assets/ollieballen.jpeg" class="imgF">
+    </div>
+</div>
+<div class="container1">
+    <div class="box1">
+    <img src="html/assets/kaas.jpeg" class="imgF">
+    </div>
+    <div class="box1">
+    <img src="html/assets/HamKees.jpg" class="imgF">
+    </div>
+</div>
+<div class="container1">
+    <div class="box1">
+    <img src="html/assets/croissant.jpeg" class="imgF">
+    </div>
+    <div class="box1">
+    <img src="html/assets/kapperacho.jpeg" class="imgF">
+    </div>
+</div>
+<div class="container1">
+    <div class="box1">
+    <img src="html/assets/flappelapp.jpeg" class="imgF">
+    </div>
+    <div class="box1">
+    <img src="html/assets/broden.jpeg" class="imgF">
+    </div>
+</div>
 </body>
 </html>

@@ -50,7 +50,7 @@ body{
  }
  .container1{
     width: 1920px;
-    height: 300px;
+    height: 200px;
     margin: 100px auto;
     display: flex;
     flex-direction: row;
@@ -61,4 +61,8 @@ body{
 .box1:hover{
     transform: scale(1.2);
     z-index: 2;
+}
+.imgF {
+    height: 213px;
+    width: 700px
 }
